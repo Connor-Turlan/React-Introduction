@@ -1,6 +1,13 @@
 body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	width: 100vw;
+	height: 100vh;
+
 	font: 14px "Century Gothic", Futura, sans-serif;
-	margin: 20px;
+	margin: 0px;
 }
 
 ol,
